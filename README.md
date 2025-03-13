@@ -1,2 +1,2 @@
-# Deemanthan-Prabhathiya
-Prabhathiya.github.io/portfolio
+# Deemanthan Prabhathiya
+Prabhathiya.github.io/
